@@ -23,32 +23,9 @@
 
 <h3 dir="auto"><a id="user-content-contact-with-me-" class="anchor" aria-hidden="true" href="#contact-with-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contacta conmigo</font></font><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font></g-emoji></h3>
 
-<p dir="auto"><animated-image data-catalyst="" style="float: left; width: 35px;"><a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-848ba616b/" 
-rel="nofollow" data-target="animated-image.originalLink"><img align="left" alt="bilgehangecici |  LinkedIn" src="https://camo.githubusercontent.com/fd1c1b5293b7f64ad27d1b11f29ba84ebdd06e079b1e5308736900d56786ca4b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64652f62342f36662f64656234366630326135396533623361326161353866616331363239306436332e676966" data-canonical-src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://www.linkedin.com/in/john-james-ospina-959302212/" target="_blank">
-          <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="bilgehangecici | LinkedIn" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/fd1c1b5293b7f64ad27d1b11f29ba84ebdd06e079b1e5308736900d56786ca4b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64652f62342f36662f64656234366630326135396533623361326161353866616331363239306436332e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="35" height="26"></canvas></span>
-        </a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play bilgehangecici | LinkedIn"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play bilgehangecici | LinkedIn">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open bilgehangecici | LinkedIn in new window" class="AnimatedImagePlayer-button" href="https://www.linkedin.com/in/john-james-ospina-959302212/" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+<a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-848ba616b" rel="nofollow"><img src="https://camo.githubusercontent.com/db06348fe4c6f031158fabc0cb8dd16b6094c89117e94abba9297b3324f47f54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d42726169735f4d6f7572652d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a>
+
+<a href="https://www.linkedin.com/in/john-james-ospina-959302212/" rel="nofollow" data-target="animated-image.originalLink"><img align="left" alt="bilgehangecici | LinkedIn" src="https://camo.githubusercontent.com/fd1c1b5293b7f64ad27d1b11f29ba84ebdd06e079b1e5308736900d56786ca4b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64652f62342f36662f64656234366630326135396533623361326161353866616331363239306436332e676966" data-canonical-src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!--
 **CristianGarci42022/CristianGarci42022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
