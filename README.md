@@ -25,7 +25,6 @@
 
 <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-848ba616b" rel="nofollow"><img src="https://camo.githubusercontent.com/db06348fe4c6f031158fabc0cb8dd16b6094c89117e94abba9297b3324f47f54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d42726169735f4d6f7572652d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a>
 
-<a href="https://www.linkedin.com/in/john-james-ospina-959302212/" rel="nofollow" data-target="animated-image.originalLink"><img align="left" alt="bilgehangecici | LinkedIn" src="https://camo.githubusercontent.com/fd1c1b5293b7f64ad27d1b11f29ba84ebdd06e079b1e5308736900d56786ca4b/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64652f62342f36662f64656234366630326135396533623361326161353866616331363239306436332e676966" data-canonical-src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!--
 **CristianGarci42022/CristianGarci42022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
