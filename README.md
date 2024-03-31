@@ -1,4 +1,10 @@
-### Hi I'm Cristian Garcia 👋
+<h1 align="center">Hola, mi nombre es Cristian Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mi<picture>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+sistemas;+Apasionado+por+la+innovación+tecnológica;+Con+conocimiento+en+diferentes;+Lenguajes+de+programación;+y+Bases+de+datos;+Estoy+siempre+listo;+Para+enfrentar+nuevos+desafíos;+y+aportar+al+éxito+de+proyectos+innovadores"></a>
+
+   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+</p>
 ### I studied software development with the Ministry of ICT at the University of Antioquia.
 ### 📚 I am currently learning all about Frontend and Backend😅 technologies.
 ### 💪🏼 Future goals: Learn more technologies and learn from each other.
