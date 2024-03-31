@@ -1,16 +1,31 @@
 <h1 align="center">Hola, mi nombre es Cristian Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mi<picture>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+sistemas;+Apasionado+por+la+innovación+tecnológica;+Con+conocimiento+en+diferentes;+Lenguajes+de+programación;+y+Bases+de+datos;+Estoy+siempre+listo;+Para+enfrentar+nuevos+desafíos;+y+aportar+al+éxito+de+proyectos+innovadores"></a>
-
+  
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mi <picture>
    <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </p>
-### I studied software development with the Ministry of ICT at the University of Antioquia.
-### 📚 I am currently learning all about Frontend and Backend😅 technologies.
-### 💪🏼 Future goals: Learn more technologies and learn from each other.
-### ⚡Fun fact: I love design and artificial intelligence and building house plans 🏠.
+He realizado varios proyectos en diferentes lenguajes de programación. Además, domino bases de datos SQL Server y tengo conocimientos en AWS, Salesforce y SAP Business One. Igualmente cuento con habilidades técnicas en sistemas, incluyendo la configuración y administración de red Wi-Fi, manejo de sistemas operativos, desde su instalación hasta su mantenimiento y actualización.
+<br><br>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-<h3 dir="auto"><a id="user-content-languages-and-tools-" class="anchor" aria-hidden="true" href="#languages-and-tools-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Languages and Tools</font></font><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛠</font></font></g-emoji></h3>
+<p>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/Python-%23181717.svg?style=plastic&logo=python&logoColor=black" alt="Python"/></a>
+  <a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/javascript-blue?logo=Javascript"/>
+  <a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/React-blue?logo=React"/>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+
+  <a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
 
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;"></a>
