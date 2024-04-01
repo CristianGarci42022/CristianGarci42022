@@ -6,10 +6,10 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mi <picture>
    <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </p>
-<br><br><br>
+
 <p>
 He realizado varios proyectos en diferentes lenguajes de programación. Además, domino bases de datos SQL Server y tengo conocimientos en AWS, Salesforce y SAP Business One. Igualmente cuento con habilidades técnicas en sistemas, incluyendo la configuración y administración de red Wi-Fi, manejo de sistemas operativos, desde su instalación hasta su mantenimiento y actualización.</p>
-
+<br><br><br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
