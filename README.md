@@ -1,17 +1,15 @@
 <h1 align="center">Hola, mi nombre es Cristian Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?                  
-font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+sistemas;+Apasionado+por+la+innovación+tecnológica;+Con+conocimiento+en+diferentes;+Lenguajes+de+programación;+y+Bases+de+datos;+Estoy+siempre+listo;+Para+enfrentar+nuevos+desafíos;+y+aportar+al+éxito+de+proyectos+innovadores"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+sistemas;+Apasionado+por+la+innovación+tecnológica;+Con+conocimiento+en+diferentes;+Lenguajes+de+programación;+y+Bases+de+datos;+Estoy+siempre+listo;+Para+enfrentar+nuevos+desafíos;+y+aportar+al+éxito+de+proyectos+innovadores"></a>
   
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mi <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Acerca de Mi <picture>
+   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </p>
-<div>
-  <p>He realizado varios proyectos en diferentes lenguajes de programación. Además, domino bases de datos SQL Server y tengo conocimientos en AWS, Salesforce y SAP Business One. Igualmente cuento con                   habilidades técnicas en sistemas, incluyendo la configuración y administración de red Wi-Fi, manejo de sistemas operativos, desde su instalación hasta su mantenimiento y actualización.
-  </p>
-</div>
 <br><br><br>
+<p>
+He realizado varios proyectos en diferentes lenguajes de programación. Además, domino bases de datos SQL Server y tengo conocimientos en AWS, Salesforce y SAP Business One. Igualmente cuento con habilidades técnicas en sistemas, incluyendo la configuración y administración de red Wi-Fi, manejo de sistemas operativos, desde su instalación hasta su mantenimiento y actualización.</p>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
@@ -38,5 +36,4 @@ font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&h
 <a href="https://wa.me/+573134723829" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"  style="max-width: 30%;"></a>
 
 </p>	
-
 
