@@ -39,13 +39,8 @@ Como desarrollador con experiencia en proyectos web y sistemas, me especializo e
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Descarga CV</summary>
-      <p align="center">
-        <button>
-          <a download="CV-Cristian Garcia" href="CV/CV-Cristian-Garcia.pdf">Descargar CV</a> <i class="fa-solid fa-download"></i>
-          <span class="overlay"></span>
-        </button>
-      </p>
+    <summary><h2 style="display: inline-block"> <a download="CV-Cristian Garcia" href="https://smallpdf.com/es/file#s=3e4ca674-c60f-4b56-8dc4-f66a790035a9">Descargar CV</a></summary>
+    
   </ul>
 </div>
 
