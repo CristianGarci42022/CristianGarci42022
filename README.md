@@ -8,7 +8,7 @@
 </p>
 
 <p>
-He realizado varios proyectos en diferentes lenguajes de programación. Además, domino bases de datos SQL Server y tengo conocimientos en AWS, Salesforce y SAP Business One. Igualmente cuento con habilidades técnicas en sistemas, incluyendo la configuración y administración de red Wi-Fi, manejo de sistemas operativos, desde su instalación hasta su mantenimiento y actualización.</p>
+Como desarrollador con experiencia en proyectos web y sistemas, me especializo en SQL Server, AWS, Salesforce y SAP Business One. Además, cuento con habilidades en redes Wi-Fi y sistemas operativos. Mis certificaciones incluyen ISO 27001 y Hacking Ético Gamificado, junto con diplomados en Desarrollo de Aplicaciones Web y Desarrollo de Software, además de un nivel de inglés A1. Mi experiencia laboral abarca roles como desarrollador Front-End Freelance, donde me mantengo actualizado en seguridad de la información; desarrollador Web, con enfoque en el aprendizaje continuo de nuevas tecnologías; desarrollador SAP Business One, ofreciendo soluciones personalizadas; y desarrollador Salesforce, mejorando la gestión de datos y procesos comerciales..</p>
 <br><br><br>
 <div id="user-content-toc">
   <ul align="center">
@@ -36,4 +36,16 @@ He realizado varios proyectos en diferentes lenguajes de programación. Además,
 <a href="https://wa.me/+573134723829" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"  style="max-width: 30%;"></a>
 
 </p>	
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Descarga CV</summary>
+      <p align="center">
+        <button>
+          <a download="CV-Cristian Garcia" href="CV/CV-Cristian-Garcia.pdf">Descargar CV</a> <i class="fa-solid fa-download"></i>
+          <span class="overlay"></span>
+        </button>
+      </p>
+  </ul>
+</div>
 
