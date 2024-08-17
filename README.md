@@ -8,7 +8,15 @@
 </p>
 
 <p>
-Como desarrollador con experiencia en proyectos web y sistemas, me especializo en SQL Server, AWS, Salesforce y SAP Business One. Además, cuento con habilidades en redes Wi-Fi y sistemas operativos. Mis certificaciones incluyen ISO 27001 y Hacking Ético Gamificado, junto con diplomados en Desarrollo de Aplicaciones Web y Desarrollo de Software, además de un nivel de inglés A1. Mi experiencia laboral abarca roles como desarrollador Front-End Freelance, donde me mantengo actualizado en seguridad de la información; desarrollador Web, con enfoque en el aprendizaje continuo de nuevas tecnologías; desarrollador SAP Business One, ofreciendo soluciones personalizadas; y desarrollador Salesforce, mejorando la gestión de datos y procesos comerciales..</p>
+Desarrollador apasionado por la innovación tecnológica con experiencia en desarrollo web y
+un nuevo enfoque en seguridad de la información. Especializado en diversos lenguajes de
+programación como C#, Php, Angular y React, así como manejo de WordPress intermedio
+para la creación y configuración de páginas web, y administrador de cpanel, adicionalmente
+manejo bases de datos SQL Server. Recientemente certificado en ISO 27001 por Hacker
+Mentor, demostrando un compromiso creciente con la ciberseguridad. Familiarizado con
+Salesforce y SAP Business One. Colaborador entusiasta que valora el trabajo en equipo, el
+aprendizaje continuo y la aplicación de las mejores prácticas de seguridad en el desarrollo
+de aplicaciones y la gestión de sistemas.</p>
 <br><br><br>
 <div id="user-content-toc">
   <ul align="center">
@@ -31,7 +39,7 @@ Como desarrollador con experiencia en proyectos web y sistemas, me especializo e
 </div>
 <p align="center">    
 <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-848ba616b" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  style="max-width: 30%;"></a>
-<a href="mailto:Cristianpulido672@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  style="max-width: 30%;"></a>
+<a href="mailto:Cristianpulido6721@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"  style="max-width: 30%;"></a>
 <a href="https://digitalportfolio.vercel.app/" rel="nofollow"><img src="https://img.shields.io/badge/Portafolio-33B4B4?style=for-the-badge&logo=&logoColor=blue"  style="max-width: 30%;"></a>
 <a href="https://wa.me/+573134723829" rel="nofollow"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"  style="max-width: 30%;"></a>
 
@@ -39,7 +47,7 @@ Como desarrollador con experiencia en proyectos web y sistemas, me especializo e
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> <a download="CV-Cristian Garcia" href="https://smallpdf.com/es/file#s=3e4ca674-c60f-4b56-8dc4-f66a790035a9">Descargar CV</a></summary>
+    <summary><h2 style="display: inline-block"> <a download="CV-Cristian Garcia" href="https://smallpdf.com/es/file#s=155bd4b8-e3e5-4608-941e-aaf4563465a9">Descargar CV</a></summary>
     
   </ul>
 </div>
